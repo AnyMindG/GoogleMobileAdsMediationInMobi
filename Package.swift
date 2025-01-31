@@ -12,6 +12,7 @@ let package = Package(
             targets: ["GoogleMobileAdsMediationInMobi"]
         ),
     ],
+    // GoogleMobileAdsMediationInMobi v1.1.0
     targets: [
         .binaryTarget(
             name: "GoogleMobileAdsMediationInMobi",
