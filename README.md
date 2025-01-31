@@ -1,0 +1,2 @@
+# GoogleMobileAdsMediationInMobi
+GoogleMobileAdsMediationInMobi Adapter SDK
