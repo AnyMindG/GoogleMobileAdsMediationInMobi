@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMobileAdsMediationInMobi",
-            url: "https://github.com/AnyMindG/AllFrameworks/releases/download/10000.1.0/GADMediationAdapterInMobi.zip",
-            checksum: "cc5a92d3d5cd3f7a55eefcab778cf85808ff2292343a528c29516608ef6af0ee"
+            url: "https://github.com/AnyMindG/AllFrameworks/releases/download/10000.2.0/GoogleMobileAdsMediationInMobi.zip",
+            checksum: "db278d1b4a74d1422776666a7c00ea69d23b6e6fd37031a479aeb896214468ef"
         )
     ]
 )
